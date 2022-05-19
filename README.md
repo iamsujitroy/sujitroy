@@ -3,7 +3,7 @@
 
 - 💻 My name is Sujit and I'm a Front End developer from Assam,India
 - 📑 I'm currently working on my designing skills
-- 💡 I'm also Javascript in more depth
+- 💡 I'm also learning Javascript in more depth
 - 🏠 [You can learn more about me by checking out my portfolio site here!](https://www.iamsujitroy.github.io/sujitroy)
 
 ## Front End Tech
