@@ -1,19 +1,34 @@
-# sujitroy
+<h1 align="center">Hi 👋, I'm Sujit Roy</h1>
+<h3 align="center">A passionate frontend developer from Assam,India 🇮🇳</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsujitroy&label=Profile%20views&color=0e75b6&style=flat" alt="iamsujitroy" /> </p>
 
-- 💻 My name is Sujit and I'm a Front End developer from Assam,India
-- 📑 I'm currently working on my designing skills
-- 💡 I'm also learning Javascript in more depth
-- 🏠 [You can learn more about me by checking out my portfolio site here!](https://www.iamsujitroy.github.io/sujitroy)
+- 🔭 I’m currently working on **Improving my JavaScript skills, building projects**
 
-## Front End Tech
+- 🌱 I’m currently learning **JavaScript in more in depth**
 
-![HTML](https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white)
+- 👯 I’m looking to collaborate on **Any project building a website, to gain some experience**
 
-## Tooling
+- 🤝 I’m looking for help with **All things JavaScript. Any tips would be appreciated.**
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-0cb47c?logo=figma&logoColor=white)
+- 👨‍💻 All of my projects are available at [sujitroy.com/#portfolio](sujitroy.com/#portfolio)
+
+- 📫 How to reach me **sujitroy78148@gmail.com**
+
+- 📄 Know about my experiences [drive.google.com/resume-link-here](drive.google.com/resume-link-here)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/iamsujitroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamsujitroy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamsujitroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamsujitroy" height="30" width="40" /></a>
+<a href="https://codesandbox.com/iamsujitroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iamsujitroy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/iamsujitroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamsujitroy" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsujitroy&show_icons=true&locale=en&layout=compact" alt="iamsujitroy" /></p>
+
