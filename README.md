@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsujitroy&label=Profile%20views&color=0e75b6&style=flat" alt="iamsujitroy" /> </p>
 
-- 🔭 I’m currently working on **Improving my JavaScript skills, building projects**
+- 🔭 I’m currently working on **Improving my skills, building projects**
 
 - 🌱 I’m currently learning **react and backend technologes like NodeJS, ExpressJs, MongoDB**
 
