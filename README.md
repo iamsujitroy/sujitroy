@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sujit Roy</h1>
-<h3 align="center">A passionate frontend developer from Assam, India 🇮🇳</h3>
+<h3 align="center">A passionate full-stack developer from Assam, India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsujitroy&label=Profile%20views&color=0e75b6&style=flat" alt="iamsujitroy" /> </p>
 
 - 🔭 I’m currently working on **Improving my JavaScript skills, building projects**
 
-- 🌱 I’m currently learning **JavaScript in more in depth**
+- 🌱 I’m currently learning **react and backend technologes like NodeJS, ExpressJs, MongoDB**
 
 - 👯 I’m looking to collaborate on **Any project building a website, to gain some experience**
 
