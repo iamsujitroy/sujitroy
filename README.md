@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsujitroy&label=Profile%20views&color=0e75b6&style=flat" alt="iamsujitroy" /> </p>
 
-- 🔭 I’m currently working on **Improving my skills, building projects using html, css, sass, javaScript and react.js**
+- 🔭 I’m currently working on **Improving my skills, building projects using React, Next.js, Node, Express and Mongodb**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Backend with Node, Express and MongoDB**
 
-- 👯 I’m looking to collaborate on **Any project building a website, to gain some experience**
+- 🤝 I’m looking for help with **Backend. Any tips would be appreciated.**
 
-- 🤝 I’m looking for help with **All things React.js. Any tips would be appreciated.**
-
-- 👨‍💻 All of my projects are available at [sujitroy.com](https://www.sujitroy.com/#portfolio)
+- 👨‍💻 Make sure you visit my portfolio at **[sujitroy.com](https://www.sujitroy.com/#portfolio)**
 
 - 📫 How to reach me **sujitroy78148@gmail.com**
 
