@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend. Any tips would be appreciated.**
 
-- 👨‍💻 Make sure you visit my portfolio at **[sujitroy.com](https://www.sujitroy.com/#portfolio)**
+- 👨‍💻 Make sure you visit my portfolio at [sujitroy.com](https://www.sujitroy.com/#portfolio)
 
 - 📫 How to reach me **sujitroy78148@gmail.com**
 
